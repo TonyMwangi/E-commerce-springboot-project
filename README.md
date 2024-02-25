@@ -87,8 +87,11 @@ The following guides illustrate how to use some features concretely:
 
 ## Preview
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/TonyMwangi/E-commerce-springboot-project/blob/main/assets/screenshot%2001.png)
+![image](https://github.com/TonyMwangi/E-commerce-springboot-project/blob/main/assets/screenshot%2002.png)
+![image](https://github.com/TonyMwangi/E-commerce-springboot-project/blob/main/assets/screenshot%2003.png)
+![image](https://github.com/TonyMwangi/E-commerce-springboot-project/blob/main/assets/screenshot%2004.png)
+![image](https://github.com/TonyMwangi/E-commerce-springboot-project/blob/main/assets/screenshot%2005.png)
+![image](https://github.com/TonyMwangi/E-commerce-springboot-project/blob/main/assets/screenshot%2006.png)
+![image](https://github.com/TonyMwangi/E-commerce-springboot-project/blob/main/assets/screenshot%2007.png)
+![image](https://github.com/TonyMwangi/E-commerce-springboot-project/blob/main/assets/screenshot%2008.png)
